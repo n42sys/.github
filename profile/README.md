@@ -2,3 +2,4 @@
 
 # n42sys (N42 Systems)
 
+Hey there! This is n42sys (short for N42 Systems) and we specialize in websites, web systems and mobile applications, as well as OSS projects (coming soon). Thanks for viewing our page.
